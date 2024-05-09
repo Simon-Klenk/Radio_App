@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Radio_App</string>
+    <string name="willkommen">Welcome!</string>
+    <string name="details_ber_aktuellen_titel">Details about current title</string>
+    <string name="bewertung_der_playlist">Rating the playlist</string>
+    <string name="bewertung_radiomoderator">Rating radio presenter</string>
+    <string name="songwunsch">Song request</string>
+    <string name="aktuelle_song_informationen">Aktuelle Song Informationen</string>
+    <string name="titel">"Titel: "</string>
+    <string name="album">"Album: "</string>
+    <string name="interpret">"Interpreter: "</string>
+    <string name="zur_ck">Back</string>
+    <string name="bewerte_die_playlist">Rate the playlist</string>
+    <string name="tt">What do you think...</string>
+    <string name="send">Send</string>
+    <string name="bewerte_den_moderator">Rate the moderator</string>
+    <string name="schicke_einen_songwunsch">Send a song request</string>
+    <string name="welchen_song_w_nscht_du_dir">Which song do you wish</string>
+</resources>
